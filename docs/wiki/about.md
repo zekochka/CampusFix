@@ -52,4 +52,4 @@ CampusFix — учебный IT-проект по дисциплине «Упр�
 - Repository: GitHub
 - Project tracking: GitHub Projects
 - CI/CD: GitHub Actions
-- Languages: қазақша / русский / English
+- Languages: қазақша / русский / English h
